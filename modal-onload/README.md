@@ -16,4 +16,4 @@ Navigate to the folder modal-onload and open the file index.html with any of the
 
 ### Reesult of the App
 
-<img src="https://github.com/Sudarshan-Gowda/UI-Modal-Design/modal-onload/blob/main/docs/Pic01.png"/>
+<img src="https://github.com/Sudarshan-Gowda/UI-Modal-Design/blob/main/modal-onload/docs/Pic01.png"/>
